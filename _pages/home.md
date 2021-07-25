@@ -40,7 +40,10 @@ Introduction to Hindawi :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CssOPazgft4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+
 Live Demo of Hindawi Programming System Notebook :
+
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcognitist%2Fvideos%2F336240811326183%2F&width=500&show_text=true&height=952&appId" width="500" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
