@@ -35,13 +35,6 @@ feature_row:
 
 {% include feature_row %}
 
-Introduction to Hindawi :
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CssOPazgft4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
 Live Demo of Hindawi Programming System Notebook :
 
 
@@ -53,6 +46,11 @@ Hindawi is an open-source, complete non-English based systems programming platfo
 It is a suite of open-source Indic programming languages. It includes compilers for the equivalents of C, C++, lex, yacc, assembly, BASIC, Ada etc. in Hindi, Bangla, Gujrati, Assomiya, Nepali and other Indian languages. These localized programming languages are known as Shaili, e.g. Indic C is Shaili Guru, Indic C++ is Shaili Shraenibadha, Indic Assembly is Shaili Yantrik and so on.
 
 Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
+
+
+Introduction to Hindawi :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CssOPazgft4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
