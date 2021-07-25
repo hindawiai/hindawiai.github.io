@@ -13,6 +13,7 @@ excerpt: >
   Programming in Your Mother Tongue<br/>
   <small><a href="about/">More about Project Hindawi</a></small>
   <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/हिंदवी_2021_7_स्मरण_पुस्तिका.ipynb">Try Hindawi Online</a></small>
+  <small><a href="https://colab.research.google.com/github/hindawiai/chintamani/blob/master/Notebooks/Hindawi_Ported_Linux_Kernel_Compilation.ipynb">Try compiling the Linux kernel being ported to Hindawi</a></small>
 feature_row:
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
@@ -39,6 +40,7 @@ Live Demo of Hindawi Programming System Notebook :
 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcognitist%2Fvideos%2F336240811326183%2F&width=500&show_text=true&height=952&appId" width="500" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 
 
 Hindawi is an open-source, complete non-English based systems programming platform supporting all paradigms of programming languages from assembly language to logic and functional programming, which effectively shatters the language barrier allowing non English literates to take up computer sciences and revolution at all levels of technology, from primary school education to robotics and super-computing in their mother tongue, without the need to master English.
