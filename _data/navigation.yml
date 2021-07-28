@@ -23,6 +23,8 @@ main:
     url: /resources/
   - title: Releases
     url: /releases/
+  - title: Manual
+    url: /hindawimanual/
  
 
   - title: Innovations in Hindawi
